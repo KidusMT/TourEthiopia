@@ -3,8 +3,13 @@
 *.ap_
 
 # Files for the ART/Dalvik VM
+<<<<<<< HEAD
 *.dex  
  
+=======
+*.dex
+
+>>>>>>> master
 # Java class files
 *.class
 
